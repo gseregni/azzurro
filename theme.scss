@@ -99,14 +99,13 @@ $headings-font-family : inherit !default;
 
 }
 
+#lang {
+right: 10px;
+  position:fixed;
+  z-index:100;
+}
+
+
 .section     {
-
-
-
-
   border-bottom : 2px solid red;
-
-
-
-
 }

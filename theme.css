@@ -4884,5 +4884,10 @@ a.text-danger:hover {
     .menu a:hover {
       color: red; }
 
+#lang {
+  right: 10px;
+  position: fixed;
+  z-index: 100; }
+
 .section {
   border-bottom: 2px solid red; }
