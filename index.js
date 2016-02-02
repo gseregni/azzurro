@@ -1,5 +1,5 @@
  $(window).on("ready", function() {
-  
+
     window.sr = new scrollReveal();
 
     $("a[href^='#']").on('click', function(e) {
