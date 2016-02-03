@@ -4958,3 +4958,8 @@ a.text-danger:hover {
     left: -100%; }
   .carousel-inner > .active.right {
     left: 100%; }
+
+
+.lb-nav a.lb-next, .lb-nav a.lb-prev {
+  opacity : 1 !important;  
+}
