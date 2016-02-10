@@ -214,3 +214,7 @@ $headings-font-family : inherit !default;
     left: 100%;
   }
 }
+
+.lb-nav a.lb-next, .lb-nav a.lb-prev {
+  opacity : 1 !important;  
+}

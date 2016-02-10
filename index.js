@@ -1,5 +1,21 @@
  $(window).on("ready", function() {
-  
+
+
+    $('#ristorante img').each(function() {
+      var $a = $("<a></a>").attr("data-lightbox", "ristorante").attr("href", $(this).attr("src"));
+      $(this).wrap($a);
+    });
+
+    $('#menu img').each(function() {
+      var $a = $("<a></a>").attr("data-lightbox", "ristorante").attr("href", $(this).attr("src"));
+      $(this).wrap($a);
+    });
+
+    $('#eventi img').each(function() {
+      var $a = $("<a></a>").attr("data-lightbox", "ristorante").attr("href", $(this).attr("src"));
+      $(this).wrap($a);
+    });
+
     window.sr = new scrollReveal();
 
     $("a[href^='#']").on('click', function(e) {
