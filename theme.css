@@ -4882,7 +4882,7 @@ a.text-danger:hover {
   .menu a {
     color: white; }
     .menu a:hover {
-      color: red; }
+      color: #0077bb; }
 
 #lang {
   right: 10px;
@@ -4890,7 +4890,7 @@ a.text-danger:hover {
   z-index: 100; }
 
 .section {
-  border-bottom: 2px solid red; }
+  border-bottom: 2px solid #0077bb; }
 
 .carousel img {
   height: 300px !important; }
