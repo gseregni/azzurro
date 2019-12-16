@@ -1,0 +1,4 @@
+sources_path : "/"
+index_path: "/index_es.html"
+netlify_site_name : "optimistic-hawking-fa21db"
+default_branch : "p5"
