@@ -1,2 +1,3 @@
-/pingendo/static/*  /pingendo/static/:splat  200
-/pingendo/*  /pingendo/index.html  200
+/pingendo/static/*      https://pingendo5.netlify.com/pingendo/static/:splat 200
+/pingendo/*     https://pingendo5.netlify.com/pingendo/contrib.html  200
+
